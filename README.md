@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivabalan-arunachalam&show_icons=true&theme=radical&locale=en" alt="sivabalan-arunachalam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivabalan-arunachalam&theme=dark" alt="sivabalan-arunachalam" /></p>
+
+![Snake animation](https://github.com/sivabalan-arunachalam/sivabalan-arunachalam/blob/output/github-contribution-grid-snake.svg)
